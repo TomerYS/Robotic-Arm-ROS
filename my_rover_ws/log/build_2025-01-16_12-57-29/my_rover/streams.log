@@ -1,0 +1,41 @@
+[0.022s] Invoking command in '/home/tauver/my_rover_ws/build/my_rover': /usr/bin/cmake /home/tauver/my_rover_ws/src/my_rover -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tauver/my_rover_ws/install/my_rover
+[0.095s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.095s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.095s]   CMake.
+[0.095s] 
+[0.095s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.095s]   CMake that the project does not need compatibility with older versions.
+[0.095s] 
+[0.095s] [0m
+[0.332s] -- The C compiler identification is GNU 11.4.0
+[0.847s] -- The CXX compiler identification is GNU 11.4.0
+[1.155s] -- Detecting C compiler ABI info
+[1.331s] -- Detecting C compiler ABI info - done
+[1.338s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.339s] -- Detecting C compile features
+[1.340s] -- Detecting C compile features - done
+[1.344s] -- Detecting CXX compiler ABI info
+[1.517s] -- Detecting CXX compiler ABI info - done
+[1.524s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.524s] -- Detecting CXX compile features
+[1.525s] -- Detecting CXX compile features - done
+[2.867s] [31mCMake Error at CMakeLists.txt:5 (find_package):
+[2.867s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[2.867s]   asked CMake to find a package configuration file provided by "catkin", but
+[2.867s]   CMake did not find one.
+[2.867s] 
+[2.867s]   Could not find a package configuration file provided by "catkin" with any
+[2.867s]   of the following names:
+[2.867s] 
+[2.867s]     catkinConfig.cmake
+[2.867s]     catkin-config.cmake
+[2.867s] 
+[2.867s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[2.867s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[2.868s]   provides a separate development package or SDK, be sure it has been
+[2.868s]   installed.
+[2.868s] 
+[2.868s] [0m
+[2.868s] -- Configuring incomplete, errors occurred!
+[2.868s] See also "/home/tauver/my_rover_ws/build/my_rover/CMakeFiles/CMakeOutput.log".
+[2.870s] Invoked command in '/home/tauver/my_rover_ws/build/my_rover' returned '1': /usr/bin/cmake /home/tauver/my_rover_ws/src/my_rover -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tauver/my_rover_ws/install/my_rover

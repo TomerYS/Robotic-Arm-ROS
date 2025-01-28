@@ -1,0 +1,37 @@
+[0.646s] Invoking command in '/home/tauver/my_rover_ws/src/description': PYTHONPATH=/home/tauver/my_rover_ws/build/description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tauver/my_rover_ws/install/description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/description build --build-base /home/tauver/my_rover_ws/build/description/build install --record /home/tauver/my_rover_ws/build/description/install.log --single-version-externally-managed install_data
+[0.837s] running egg_info
+[0.838s] creating ../../build/description/description.egg-info
+[0.838s] writing ../../build/description/description.egg-info/PKG-INFO
+[0.838s] writing dependency_links to ../../build/description/description.egg-info/dependency_links.txt
+[0.839s] writing entry points to ../../build/description/description.egg-info/entry_points.txt
+[0.839s] writing requirements to ../../build/description/description.egg-info/requires.txt
+[0.839s] writing top-level names to ../../build/description/description.egg-info/top_level.txt
+[0.839s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[0.840s] reading manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[0.841s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[0.841s] running build
+[0.841s] running build_py
+[0.841s] creating /home/tauver/my_rover_ws/build/description/build
+[0.842s] creating /home/tauver/my_rover_ws/build/description/build/lib
+[0.842s] creating /home/tauver/my_rover_ws/build/description/build/lib/description
+[0.842s] copying description/__init__.py -> /home/tauver/my_rover_ws/build/description/build/lib/description
+[0.843s] running install
+[0.843s] running install_lib
+[0.843s] creating /home/tauver/my_rover_ws/install/description/lib/python3.10/site-packages/description
+[0.844s] copying /home/tauver/my_rover_ws/build/description/build/lib/description/__init__.py -> /home/tauver/my_rover_ws/install/description/lib/python3.10/site-packages/description
+[0.844s] byte-compiling /home/tauver/my_rover_ws/install/description/lib/python3.10/site-packages/description/__init__.py to __init__.cpython-310.pyc
+[0.845s] running install_data
+[0.845s] copying package.xml -> /home/tauver/my_rover_ws/install/description/share/description
+[0.845s] creating /home/tauver/my_rover_ws/install/description/share/description/urdf
+[0.846s] copying urdf/my_rover.urdf -> /home/tauver/my_rover_ws/install/description/share/description/urdf
+[0.846s] copying meshes/base_link.STL -> /home/tauver/my_rover_ws/install/description/share/description
+[0.847s] copying meshes/end_effector.STL -> /home/tauver/my_rover_ws/install/description/share/description
+[0.847s] copying meshes/link_1.STL -> /home/tauver/my_rover_ws/install/description/share/description
+[0.847s] copying meshes/link_2.STL -> /home/tauver/my_rover_ws/install/description/share/description
+[0.848s] copying meshes/link_3.STL -> /home/tauver/my_rover_ws/install/description/share/description
+[0.849s] copying meshes/link_4.STL -> /home/tauver/my_rover_ws/install/description/share/description
+[0.849s] running install_egg_info
+[0.851s] Copying ../../build/description/description.egg-info to /home/tauver/my_rover_ws/install/description/lib/python3.10/site-packages/description-0.0.0-py3.10.egg-info
+[0.851s] running install_scripts
+[0.867s] writing list of installed files to '/home/tauver/my_rover_ws/build/description/install.log'
+[0.884s] Invoked command in '/home/tauver/my_rover_ws/src/description' returned '0': PYTHONPATH=/home/tauver/my_rover_ws/build/description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tauver/my_rover_ws/install/description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/description build --build-base /home/tauver/my_rover_ws/build/description/build install --record /home/tauver/my_rover_ws/build/description/install.log --single-version-externally-managed install_data

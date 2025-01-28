@@ -1,0 +1,2 @@
+Invoking command in '/home/tauver/my_rover_ws/build/my_rover': /usr/bin/cmake /home/tauver/my_rover_ws/src/my_rover -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tauver/my_rover_ws/install/my_rover
+Invoked command in '/home/tauver/my_rover_ws/build/my_rover' returned '1': /usr/bin/cmake /home/tauver/my_rover_ws/src/my_rover -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/tauver/my_rover_ws/install/my_rover
